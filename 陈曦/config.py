@@ -1,0 +1,14 @@
+label_path='/home/wjf/ml_pj_code/fabric_data/label_json/'
+temp_path='/home/wjf/ml_pj_code/fabric_data/temp/'
+trgt_path='/home/wjf/ml_pj_code/fabric_data/trgt/'
+data_path='/home/wjf/ml_pj_code/fabric_data/data/'
+train_data_path='/home/wjf/ml_pj_code/fabric_data/train/'
+test_data_path='/home/wjf/ml_pj_code/fabric_data/test/'
+tensor_path='/home/wjf/ml_pj_code/fabric_data/tensor/'
+image_size=(224,224)
+random_seed=508
+trainset_ratio=0.8
+epoch=20
+learning_rate=2e-5
+batch_size=8
+weight=()
